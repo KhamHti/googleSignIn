@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "445448734454",
+    "project_id": "exposignin-9e6db",
+    "storage_bucket": "exposignin-9e6db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445448734454:android:8a5587f5d2fc6128cd4ed7",
+        "android_client_info": {
+          "package_name": "com.khamhti.googleSignIn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445448734454-fu37j7allvo5hg3euq1uinqiivkdif5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khamhti.googleSignIn",
+            "certificate_hash": "ab87b37468f76c5562204df41769fb04befbd623"
+          }
+        },
+        {
+          "client_id": "445448734454-slrlrnn729dfc5fkjgqdeo2a62rakqsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khamhti.googleSignIn",
+            "certificate_hash": "9e713cc59ac6d00459c86b84faf506391fd73293"
+          }
+        },
+        {
+          "client_id": "445448734454-pbodh903ous0eihni72hfk00bsit8qfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-JaSPxPIo5ZdRU1dfkRwlBERoG-jicQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445448734454-pbodh903ous0eihni72hfk00bsit8qfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

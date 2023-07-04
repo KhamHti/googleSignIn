@@ -7,3 +7,5 @@ eas build --profile development --platform android
 
 npx expo install @react-native-google-signin/google-signin
 npm i @react-native-firebase/auth
+
+eas build --profile development --platform android

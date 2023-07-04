@@ -50,6 +50,16 @@ export default function App() {
     // });
   };
 
+  const SignOutButton = async () => {
+    try {
+      await GoogleSignin.signOut();
+      await GoogleSignin.revokeAccess();
+      // this.setState({ user: null });
+    } catch (error) {
+      console.log(error);
+    }
+  };
+
   if (initializing) return null;
 
   if (!user) {
